@@ -1,0 +1,4 @@
+name: iceplugin
+version: '1.0-SNAPSHOT'
+main: project.iceplugin.Iceplugin
+api-version: '1.21'

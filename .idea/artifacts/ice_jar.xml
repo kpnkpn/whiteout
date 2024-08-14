@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ice:jar">
+    <output-path>$PROJECT_DIR$/../../새로운 서버 프로젝트/새 폴더</output-path>
+    <root id="archive" name="ice.jar">
+      <element id="module-output" name="ice" />
+    </root>
+  </artifact>
+</component>
