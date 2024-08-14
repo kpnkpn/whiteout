@@ -14,7 +14,7 @@ import org.bukkit.potion.PotionEffectType;
 import org.bukkit.scheduler.BukkitScheduler;
 
 import java.util.function.Function;
-//바람이 귀엽게 부는 곳은? 우왕좌왕 엌ㅋzzzzzzZ
+//바람이 귀엽게 부는 곳은? 분당 엌ㅋzzzzzzZ
 
 public final class Iceplugin extends JavaPlugin implements Listener {
     boolean blind = false;
