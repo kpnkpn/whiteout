@@ -162,12 +162,14 @@ public final class Iceplugin extends JavaPlugin implements Listener {
                     try {
                         int value = Integer.parseInt(args[0]);
                         addPlayerGlobalVar(player, value);
+                        player.sendMessage(addPlayerGlobalVar);
                         return true;
                     } catch (NumberFormatException e) {
                         player.sendMessage("숫자를 입력해주세요!");
                     }
                 } else {
                     player.sendMessage("값을 입력해주세요!");
+
                 }
             }
         }
